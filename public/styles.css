@@ -1,0 +1,45 @@
+body{
+  text-align: center;
+  background-color: #07689f;
+  justify-content: center;
+}
+
+h1{
+  color: white;
+font-family: 'Oswald', sans-serif;
+}
+
+h2{
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  font-size: 3rem;
+}
+p{
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.5rem;
+}
+
+
+.searchBar{
+  margin: 5% auto;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.box{
+  border: solid;
+  border-width: thick;
+  border-radius: 5%;
+  text-align: center;
+  margin: 20px;
+  background-color: #40a8c4;
+  color: white;
+  width: 250px;
+display: inline-block;
+}
+
+#cityInput{
+  width: 500px;
+  margin-top: 15%;
+}
